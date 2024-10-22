@@ -1,0 +1,14 @@
+C:\test-1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\test-1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\test-1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\test-1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\test-1\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\test-1\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
